@@ -1,3 +1,7 @@
+## Optimization of Strassen's algorithm for n
+
+`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+
 This contains a relatively simple sample implementation of the Strassen Algorithm for matrix multiplication, written in C++. Also provided are some wrapper classes for matrices and other matrix multiplication methods which can be used for comparison.
 
 See http://en.wikipedia.org/wiki/Strassen_algorithm or section 28.2 of CLRS for more information on the algorithm.
