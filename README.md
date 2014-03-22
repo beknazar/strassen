@@ -1,6 +1,7 @@
 ## Optimization of Strassen's algorithm for n
 
 AT&T
+** &#955; **
 
 This contains a relatively simple sample implementation of the Strassen Algorithm for matrix multiplication, written in C++. Also provided are some wrapper classes for matrices and other matrix multiplication methods which can be used for comparison.
 
